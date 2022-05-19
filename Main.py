@@ -1,8 +1,8 @@
-from DesignGon import Design        
-from Getip import Getipadd
-from ipLocation import Ip
-from PortScan import port
-from WebScrapping import Scrap
+from Moduels.DesignGon.DesGondozo import Design        
+from Moduels.Getiplib.Getip import Getipadd
+from Moduels.ipLocationlib.ipLocation import Ip
+from Moduels.PortScanlib.PortScan import port
+from Moduels.WebScrappinglib.WebScrapping import Scrap
 
 #to use design file
 Design.Gon()
