@@ -1,4 +1,4 @@
-#Description 
+# Description 
 this tool need input (Host Name) like a facebook.com to return some information about this host name 
 1-ip add
 2-loction of ip 
