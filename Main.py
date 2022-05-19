@@ -1,4 +1,4 @@
-from Moduels.DesignGon.DesGondozo import Design        
+from Moduels.DesignGonlib.DesignGon import Design        
 from Moduels.Getiplib.Getip import Getipadd
 from Moduels.ipLocationlib.ipLocation import Ip
 from Moduels.PortScanlib.PortScan import port
