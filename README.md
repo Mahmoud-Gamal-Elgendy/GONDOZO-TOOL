@@ -5,3 +5,8 @@ this tool need input (Host Name) like a facebook.com to return some information 
 3-port scan and detect the service on port 
 4-search in whois and return the result
 ,Developed By Mahmoud El-Gendy ,2022
+
+# how to use it 
+write in terminal --> Main.py -N facebook.com
+
+
