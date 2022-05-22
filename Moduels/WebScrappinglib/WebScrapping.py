@@ -7,7 +7,6 @@ class Scrap:
             print("====================")
             print("    Whois Result    ")
             print("====================")
-            print("\n")
             result=requests.get("https://www.whois.com/whois/"+ip) #search about ip
             getpage=result.content #get the content of page in variable getpage
             soup=BeautifulSoup(getpage,"lxml")
