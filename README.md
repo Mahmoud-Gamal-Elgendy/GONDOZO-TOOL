@@ -8,7 +8,6 @@ this tool need input (Host Name) like a facebook.com to return some information 
 
 # Run 
 Change the target to domain you are interested in:
-
 python Main.py -N facebook.com
 
 
