@@ -9,7 +9,7 @@ this tool need input (Host Name) like a facebook.com to return some information 
 
 4-search in whois and return the result
 
-,Developed By Mahmoud El-Gendy ,2022
+Developed By Mahmoud El-Gendy ,2022
 
 # Run 
 Change the target to domain you are interested in:
