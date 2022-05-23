@@ -32,4 +32,4 @@ try:
         result=Scrap.whois(ip)
         print(result)
 except:
-    print("Oops!,Something have error")
+    print("Oops!,Check Your Internet Connection and try again!")
