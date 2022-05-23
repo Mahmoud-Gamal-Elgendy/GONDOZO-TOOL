@@ -14,6 +14,6 @@ Developed By Mahmoud El-Gendy ,2022
 # Run 
 Change the target to domain you are interested in:
 
-python Main.py -N facebook.com
+python GONDOZO.py -N facebook.com
 
 
